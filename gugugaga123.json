@@ -1,0 +1,26 @@
+[
+    {
+      "Text": "Nameless Admin",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source'))()"
+    },
+    {
+      "Text": "DarkDex",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua', true))()"
+    },
+    {
+      "Text": "Universal Aimbot",
+      "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/Y7Fv6BYd'))()"
+    },
+    {
+      "Text": "Infinity Yield",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
+    },
+    {
+      "Text": "Redz Hub",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999'))()"
+    },
+    {
+      "Text": "Timeless Chat Bypasser",
+      "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/TimelessOfficial/RobloxScripts/refs/heads/main/ChatBypasser.txt'))()"
+    }
+]
